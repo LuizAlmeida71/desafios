@@ -1,2 +1,2 @@
 # desafios
-Arquivos em python e R em base de dados diversas
+Modelagem em python e R em base de dados diversas
